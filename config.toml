@@ -10,9 +10,9 @@ pygmentsUseClasses = true
 pygmentCodeFences = true
 
 [Params]
-  dateFormat = "January 2, 2006"
+  dateFormat = "Sep 19, 2022"
   commit = false
   rss = false
 
 [Author]
-  name = "Onur Yilmaz"
+  name = "Sasikumar"
