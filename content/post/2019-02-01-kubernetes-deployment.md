@@ -6,7 +6,7 @@ tags: ["kubernetes", "code"]
 
 First application on Kubernetes using Kubernetes deployments
 
-<!--more-->
+<!--more
 
 ```sh
     $ kubectl run kubernetes-bootcamp --image=gcr.io/google-samples/kubernetes-bootcamp:v1 --port=8080
@@ -24,3 +24,4 @@ We can check application logs:
 $ kubectl logs kubernetes-bootcamp-5c69669756-wv2rp
 Kubernetes Bootcamp App Started At: 2018-10-20T13:38:41.537Z | Running On:  kubernetes-bootcamp-5c69669756-wv2rp
 ```
+-->
