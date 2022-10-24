@@ -1,6 +1,6 @@
 ---
 title: First Kubernetes Deployment
-date: 2019-02-01
+date: 2022-09-19
 tags: ["kubernetes", "code"]
 ---
 
